@@ -1,16 +1,29 @@
-## Hi there 👋
+# Soy Hernán Nicolás Ortiz
 
-<!--
-**hernanortiz1/hernanortiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## IT Support Specialist | Infrastructure | Networking | Full Stack Developer
 
-Here are some ideas to get you started:
+Especialista en Soporte IT con experiencia en infraestructura tecnológica,
+redes, servidores, sistemas médicos RIS/PACS, Power BI y desarrollo Full Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+🖥 Windows
+🌐 MikroTik
+📊 Power BI
+⚛ React
+🟢 Node.js
+🍃 MongoDB
+🐬 MySQL
+🐙 Git
+
+## Proyectos Destacados
+
+🚀 Lannister
+🚀 Nova Store
+🚀 Landing Centro Médico
+
+## Contacto
+
+LinkedIn:linkedin.com/in/hernannicolasortiz/
+
+Email: hernannicolasortiz@gmail.com
