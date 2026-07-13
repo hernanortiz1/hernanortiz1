@@ -168,17 +168,11 @@ Landing institucional desarrollada con React.
 
 ---
 
-# 📈 GitHub Stats
+## 📊 Contribution Graph
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hernanortiz1&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanortiz1&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hernanortiz1&theme=github-dark"/>
+</p>
 
 # 🔥 Contribution Streak
 
